@@ -26,3 +26,11 @@
   ```
 
 - 待开发.
+
+
+
+### 参考
+
+- [https://github.com/jeremycole/innodb_ruby](https://github.com/jeremycole/innodb_ruby)
+
+- [https://github.com/mysql/mysql-server/blob/ee4455a33b10f1b1886044322e4893f587b319ed/storage/innobase/include/fil0fil.h](https://github.com/mysql/mysql-server/blob/ee4455a33b10f1b1886044322e4893f587b319ed/storage/innobase/include/fil0fil.h)
